@@ -1,36 +1,34 @@
-<h1 align="center">Prueba-Práctica · SmartToll</h1>
+<h1 align="center">Guía Práctica APE 4 · Programación Orientada a Objetos</h1>
 
 <p align="center">
-  <strong>🃏 EL CASINO DEL CÓDIGO · THE CAJUN DIVISION · GUÍA APE 4</strong><br>
-  <em>El destino reparte las cartas, pero solo un jugador controla el peaje.</em>
+  <strong>🃏 EL CASINO DEL CÓDIGO · REMY LEBEAU DIVISION</strong><br>
+  <em>El mazo está cargado: 5 ejercicios de POO resueltos con precisión cinética.</em>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:4B0082,100:E0115F&amp;height=230&amp;section=header&amp;text=SmartToll&amp;fontSize=48&amp;fontColor=E0115F&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=REMY%20LEBEAU%20%C2%B7%20DESARROLLO%20INDIVIDUAL&amp;descAlignY=60&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="SmartToll — Remy LeBeau, Desarrollo Individual: texto animado sobre ondas decorativas púrpuras y magenta">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:4B0082,100:E0115F&amp;height=230&amp;section=header&amp;text=Guia%20APE%204%20%C2%B7%20POO&amp;fontSize=44&amp;fontColor=E0115F&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DESARROLLO%20INDIVIDUAL%20%C2%B7%20PAREDES%20ACOSTA%20DERECK%20SHAIR&amp;descAlignY=60&amp;descSize=18&amp;descColor=FFFFFF" width="100%" alt="Guía APE 4 POO - Dereck Shair Paredes Acosta">
 
-<h2>🃏 EL PEAJE DE NUEVA ORLEANS: LA APUESTA PERFECTA</h2>
+<h2>🃏 RESOLUCIÓN DE EJERCICIOS DE CLASES Y OBJETOS EN JAVA</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=E0115F&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;Ning%C3%BAn+veh%C3%ADculo+cruza+sin+pagar+su+apuesta.;Una+sola+baraja.+Un+solo+desarrollador.;Cartas+cargadas.+Comienza+la+misi%C3%B3n.;El+mejor+estafador+nunca+deja+un+bug+en+el+c%C3%B3digo." width="100%" alt="Frases animadas estilo Gambito">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=E0115F&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Cinco+ejercicios.+Cero+suerte.+Pura+l%C3%B3gica.;Clases%2C+atributos%2C+instancias+y+referencias.;El+mazo+de+Java+est%C3%A1+en+mis+manos.;Desarrollo+individual+para+la+Gu%C3%ADa+APE+4." width="100%" alt="Frases animadas estilo Gambito">
 
-**La noche es joven. La energía cinética debe fluir.**
+**Cinco cartas sobre la mesa. Cinco problemas resueltos.**
 
 <img src="https://img.shields.io/badge/MODALIDAD-INDIVIDUAL-E0115F?style=for-the-badge&amp;labelColor=18181B" alt="Modalidad Individual">
-<img src="https://img.shields.io/badge/AUTOR-1_DESARROLLADOR-E0115F?style=for-the-badge&amp;labelColor=18181B" alt="Un desarrollador">
+<img src="https://img.shields.io/badge/AUTOR-DERECK_PAREDES-E0115F?style=for-the-badge&amp;labelColor=18181B" alt="Dereck Paredes">
 <img src="https://img.shields.io/badge/GU%C3%8DA-APE_4-E0115F?style=for-the-badge&amp;labelColor=18181B" alt="Guía APE 4">
 
 <br>
 
 <img src="https://img.shields.io/badge/LENGUAJE-JAVA-9333EA?style=flat-square&amp;labelColor=18181B" alt="Lenguaje Java">
-<img src="https://img.shields.io/badge/ENFOQUE-SWITCH_·_CICLOS_·_VALIDACIONES-9333EA?style=flat-square&amp;labelColor=18181B" alt="Enfoque en switch, ciclos y validaciones">
+<img src="https://img.shields.io/badge/PARADIGMA-POO-9333EA?style=flat-square&amp;labelColor=18181B" alt="Paradigma POO">
 
 <br><br>
 
-**Miser, bienvenidos a mi mesa de juego.**<br>
-Esta vez la misión es controlar la entrada al territorio: cada vehículo que cruza el peaje<br>
-debe identificarse, pagar la tarifa exacta y quedar registrado en el mazo.
-
-**Un solo jugador. Una estrategia implacable. Un peaje.**
+**Bienvenue à la mesa de trabajo.**<br>
+Esta guía contiene la implementación completa de los 5 ejercicios prácticos<br>
+de Introducción a la Programación Orientada a Objetos en Java.
 
 </div>
 
@@ -38,80 +36,80 @@ debe identificarse, pagar la tarifa exacta y quedar registrado en el mazo.
 
 ## 🃏 Autor · El As de la Baraja
 
-En el código, como en las cartas, depender de otros solo complica la jugada. Esta solución fue concebida, ejecutada y pulida de forma completamente individual para cumplir con los requerimientos de la **Guía APE 4**.
-
-| Rol | Desarrollador | Operación | Objetivo |
+| Rol | Desarrollador | Asignatura | Trabajo |
 | :---: | :--- | :--- | :--- |
-| **As de Picas** | **[Tu Nombre Completo Aquí]** | **Arquitecto Cinético · Investigación, Desarrollo y Pruebas** | Diseñar, programar, validar y documentar la solución integral del peaje sin dejar nada al azar. |
-
-**No necesito compinches cuando tengo el mazo cargado a mi favor.**
+| **As de Picas** | **Paredes Acosta Dereck Shair** | **Orientación a Objetos / Java** | **Guía APE 4 (Individual)** |
 
 ---
 
-# 🗃️ Expediente de Misión · Guía APE 4 – SmartToll: Peaje
-
-> **Objetivo de la misión:** analizar el problema de manera individual, diseñar una solución lógica impecable, programarla en Java, verificar su funcionamiento bajo todos los escenarios de prueba y documentar los resultados.
-
-### 📋 Descripción
-
-El programa simula el control de un peaje bajo la supervisión de Gambito. Solicita la cantidad **N de vehículos** y, para cada uno, registra la **placa**, el **tipo de vehículo** (`1` Moto, `2` Automóvil, `3` Camión), el **número de ejes** y la **hora** de paso. Utilizando un bloque `switch`, determina la tarifa correspondiente y, al finalizar la ejecución, muestra el reporte final:
-
-- El **total recaudado**.
-- La **cantidad de camiones con más de 4 ejes**.
-- La **placa que pagó la tarifa más alta** (el verdadero *High Roller*).
-
-### ⚙️ Estructuras utilizadas
-
-| Estructura | Uso dentro del programa |
-| :--- | :--- |
-| `for` | Procesar secuencialmente los N vehículos. |
-| `while` | Validar cada entrada hasta asegurar que el dato sea correcto. |
-| `switch` | Evaluar y calcular la tarifa base según el tipo de vehículo. |
-| `if` / `else` | Aplicar el recargo por hora pico y determinar la tarifa máxima registrada. |
-| Acumulador | Sumar el total recaudado en la caja general. |
-| Contador | Registrar la cantidad de camiones con más de 4 ejes. |
-| Variables de mayor | Guardar el importe de la tarifa más alta y la placa asociada. |
-
-### 💰 Tabla de tarifas · Reglas de la Mesa de Juego
-
-| Tipo | Vehículo | Ejes permitidos | Tarifa base |
-| :---: | :--- | :---: | :--- |
-| **1** | Moto | 2 | $1,00 |
-| **2** | Automóvil | 2 | $2,00 |
-| **3** | Camión | 2 a 9 | $1,50 por eje |
-
-> **Hora pico:** de 07:00 a 09:59 y de 17:00 a 19:59 se aplica un **recargo del 20 %** sobre la tarifa base. La hora se ingresa como un entero entre `0` y `23`.
-
-### 🛡️ Validaciones y criterios
-
-- **N** debe ser un entero estrictamente mayor que cero.
-- La **placa** no puede estar vacía ni compuesta solo por espacios.
-- El **tipo** solo acepta las opciones `1`, `2` o `3`.
-- Los **ejes** deben ajustarse al tipo: moto y automóvil requieren exactamente 2 ejes; camión acepta de 2 a 9 ejes.
-- La **hora** debe estar en el rango de `0` a `23`.
-- Si se ingresa un dato inválido, el sistema muestra una advertencia y solicita el dato nuevamente sin avanzar de vehículo.
-- Un camión se contabiliza como **“más de 4 ejes”** únicamente si cuenta con 5 o más ejes.
-- En caso de un empate en la tarifa más alta, la casa respeta la **primera placa** registrada.
+# 🗃️ Expediente de Misión · Los 5 Ejercicios de la Guía APE 4
 
 ---
 
-# ⚙️ Instrucciones de ejecución · Cargando la Baraja
+### 🃏 Ejercicio 1 · Notas del curso
 
-Para compilar y ejecutar el programa se debe contar con el entorno de desarrollo **Java (JDK 8 o superior)** instalado.
+> **Descripción:** Crear la clase `Estudiante` con los atributos `nombre`, `nota1`, `nota2`, `nota3` y `promedio`. Instanciar 5 estudiantes, calcular su promedio e imprimir el estado académico de cada uno.
 
-El proyecto está listo para ser ejecutado en cualquiera de los siguientes entornos:
+* **Reglas:**
+  * **Aprobado:** Promedio $\ge 7.0$
+  * **Supletorio:** Promedio entre $5.0$ y $6.99$
+  * **Reprobado:** Promedio $< 5.0$
+* **Salida esperada:** Formato `nombre: promedio - Estado`, seguido del conteo total de aprobados.
 
-- Visual Studio Code.
-- Apache NetBeans.
-- IntelliJ IDEA.
-- Eclipse.
-- Consola o Terminal del sistema.
+---
 
-## 🖥️ Ejecución desde un IDE
+### 🃏 Ejercicio 2 · Inventario de una tienda
 
-1. Abrir el entorno de desarrollo preferido.
-2. Cargar el proyecto o crear una clase llamada `SmartToll.java`.
-3. Asegurarse de que el archivo contenga el punto de entrada principal:
+> **Descripción:** Crear la clase `Producto` con `nombre`, `precio` y `stock`. Instanciar 4 productos y simular la venta de 3 unidades en dos de ellos.
 
-```java
-public static void main(String[] args)
+* **Reglas:**
+  * Imprimir productos con el formato `nombre: precio`.
+  * Mostrar la alerta `"Reponer"` junto a los productos cuyo stock sea menor a 5 unidades.
+  * Calcular e imprimir el valor total del inventario ($\sum \text{precio} \times \text{stock}$).
+
+---
+
+### 🃏 Ejercicio 3 · Veterinaria & Referencias de Memoria
+
+> **Descripción:** Crear la clase `Mascota` con `nombre`, `especie`, `edad` y `peso`. Instanciar 3 mascotas.
+
+* **Reglas:**
+  * Imprimir con formato `nombre: especie: peso`.
+  * Mostrar `"Revisar peso"` si la mascota pesa más de 20 kg.
+  * Asignación de referencia: Ejecutar `Mascota m4 = m1;`, incrementar `m4.edad++`, imprimir `m1.edad` y explicar mediante comentarios el comportamiento de la memoria Stack/Heap.
+
+---
+
+### 🃏 Ejercicio 4 · Cuenta de ahorro
+
+> **Descripción:** Crear la clase `Cuenta` con `titular` y `saldo`. Instanciar 2 cuentas (una con $200 y otra con $350).
+
+* **Reglas:**
+  * Mediante un ciclo `while`, depositar $50 al mes en cada cuenta hasta alcanzar o superar los $500.
+  * Imprimir el progreso mensual con formato `titular: saldo`.
+  * Reportar cuántos meses necesitó cada cuenta para llegar a la meta (6 y 3 meses respectivamente).
+
+---
+
+### 🃏 Ejercicio 5 · Biblioteca
+
+> **Descripción:** Crear las clases `Libro` (`titulo`, `autor`, `disponible`) y `Socio` (`nombre`, `librosPrestados`). Instanciar 4 libros y 2 socios.
+
+* **Reglas:**
+  * Registrar el préstamo de 2 libros al primer socio y 1 libro al segundo socio (cambiando `disponible = false` e incrementando `librosPrestados`).
+  * Imprimir el estado de cada libro (`titulo: Disponible` o `titulo: Prestado`).
+  * Imprimir el estado de cada socio con formato `nombre: librosPrestados`.
+  * Mostrar el total de libros que permanecen disponibles en la biblioteca.
+
+---
+
+# ⚙️ Instrucciones de Ejecución
+
+Para compilar y ejecutar los ejercicios se requiere contar con **Java (JDK 8 o superior)**.
+
+```bash
+# Compilar los archivos del proyecto
+javac *.java
+
+# Ejecutar la clase principal que contiene las pruebas
+java Main
